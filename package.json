@@ -1,13 +1,18 @@
 {
+<<<<<<< HEAD
   "name": "ui-darkside",
   "displayName": "Darkside",
   "theme": "ui",
+=======
+  "name": "Airinum",
+  "theme": "Airinum",
+>>>>>>> 4c8b4fd1d954108e785f23f6b25c609a316dc4b3
   "version": "1.0.0",
-  "description": "A customizable, dark sidebar theme for Nylas N1",
+  "description": "Based on Darkside - A customizable, dark sidebar theme for Nylas N1",
   "license": "MIT",
   "engines": {
     "nylas": "*"
   },
-  "styleSheets": ["darkside"],
+  "styleSheets": ["airinum"],
   "private": true
 }
